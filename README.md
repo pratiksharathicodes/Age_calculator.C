@@ -17,6 +17,7 @@ int main() {
 ```
 
 ☆ EXPECTED OUTPUT 
+
 When you Run this program, it will display
 
 myage=18
