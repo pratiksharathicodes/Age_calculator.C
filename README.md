@@ -1,6 +1,6 @@
 # Age_calculator.C
 A simple C program that calculates  a user's exact age based on their  birth year .
-
+```
 #include <stdio.h>
 
 int main() {
@@ -10,3 +10,4 @@ int main() {
     
     return 0;
 }
+```
